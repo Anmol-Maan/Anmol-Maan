@@ -1,4 +1,4 @@
-# Hi, I'm Anmol! 👋  $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ ![Profile Views](https://komarev.com/ghpvc/?username=Anmol-Maan&color=blue&style=flat)
+# Hi, I'm Anmol! 👋  $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ ![Profile Views](https://komarev.com/ghpvc/?username=Anmol-Maan&color=blue&style=flat)
 👨🏻‍💻 Data Analytics Consultant with 5+ years of technical and stakeholder-facing experience turning data into actionable insights.<br>📖 Bachelors in Business Administration - SNHU<br>👨🏻‍🎓 Graduate Certificate in Big Data Analytics - Georgian College<br>👨🏻‍🎓 Associates in Mechanical Engineering Technology - Georgian College<br>
 
 # 🔬 Areas of Expertise
