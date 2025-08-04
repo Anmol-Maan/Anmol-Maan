@@ -1,4 +1,4 @@
-# Hi, I'm Anmol! 👋
+# Hi, I'm Anmol! 👋  $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ ![Profile Views](https://komarev.com/ghpvc/?username=Anmol-Maan&color=blue&style=flat)
 👨🏻‍💻 Data Analytics Consultant with 5+ years of technical and stakeholder-facing experience turning data into actionable insights.<br>📖 Bachelors in Business Administration - SNHU<br>👨🏻‍🎓 Graduate Certificate in Big Data Analytics - Georgian College<br>👨🏻‍🎓 Associates in Mechanical Engineering Technology - Georgian College<br>
 
 # 🔬 Areas of Expertise
@@ -20,8 +20,10 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Anmol-Maan&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+<br/>
+
 ---
-[![](https://visitcount.itsvg.in/api?id=Anmol-Maan&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=Anmol-Maan&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 <!--
